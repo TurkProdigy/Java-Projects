@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lab3 {
+public class ScientificCalculator {
 public static void main(String[] args) {
 
     boolean menu = true;
